@@ -29,3 +29,5 @@ It is powered by a fine-tuned version of **`NumbersStation/nsql-350M`** on the *
 ✅ **Generated SQL:**
 ```sql
 SELECT COUNT(EmployeeName) FROM Salaries;
+✅ Result:
+148,654 employees
